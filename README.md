@@ -10,7 +10,7 @@ Installation
 
 ### View the site:
 
-Visit http://localhost/task/index.php/search/?format=json&num=10&q=yakob
+Visit http://localhost/task/index.php/search/?format=json&num=10&q=yakobabada
 
 ### Parameters
 
