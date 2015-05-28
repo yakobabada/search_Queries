@@ -8,14 +8,14 @@ Search Query is a web service that search for a term and print a list of links a
 Installation
 ------------
 
-Upload the task folders and files to your server. Normally the index.php file will be at your root
+Upload the folders and files to your server. Normally the index.php file will be at your root
 
 To run
 ------------
 
 ### View the site:
 
-Visit http://yourdomain.com/task/index.php/search/?format=json&num=10&q=yakobabada
+Visit http://yourdomain.com/index.php/search/?format=json&num=10&q=yakobabada
 
 ### Parameters
 
