@@ -12,31 +12,29 @@ Installation
 
     /var/www/
 
+To run
+------------
+
 ### View the site:
 
 Visit http://localhost/task/index.php/search/?format=json&num=10&q=yakobabada
 
 ### Parameters
 
-q => (query) a search term
-format => [json - xml] default -> xml
-num => number of result [from 1 to 10] default -> 10
-
+q => (query) a search term <br />
+format => [json - xml] default -> xml <br />
+num => number of result [from 1 to 10] default -> 10 <br />
 
 System Explanation
 ------------------
 
-#Framework :
+###Framework :
+
 codeigniter
 
-#scraping html with php
-the application searches for the desired links by scraping html from google search pages.
+###scraping html with php
 
-
-
-#libraries:
--Format library: it conversts the php array into json or xml format.
--Search_term library: makes google request and scraping html response to php array. 
+Search Queries searches for the desired links by scraping html from google search pages.
 
 Summary
 -------
